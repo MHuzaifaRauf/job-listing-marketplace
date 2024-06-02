@@ -9,6 +9,7 @@ To run the project, follow these steps:
    - Run `npm run dev` to start the React application. The server will start on `localhost:3000`.
 
 2. **Start the JSON Server**
+   - Run `npm i -D json-server`, to install the JSON server as a dev dependancy.
    - Run `npm run server` to start the JSON Server. The mock backend server will start on `localhost:8000`.
 
 #### Project Structure
