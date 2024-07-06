@@ -1,5 +1,5 @@
 ## Overview
-This project is a job listing website built using React 18, featuring various React features such as React Router to create a multi-page application, useState, useEffect, and fundamental concepts like states, props, Hooks, and data fetching. The project utilizes the JSON Server library to create a mock REST API, serving as the backend for job details.
+This project is a job listing marketplace built using React 18, featuring various React features such as React Router to create a multi-page application, useState, useEffect, and fundamental concepts like states, props, Hooks, and data fetching. The project utilizes the JSON Server library to create a mock REST API, serving as the backend for job details.
 
 ## Getting Started
 To run the project, follow these steps:
