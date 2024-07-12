@@ -3,22 +3,27 @@ This project is a job listing marketplace built using React 18, featuring variou
 
 #### Home Page
 The main entry point for the job listing marketplace where you can easily navigate to different sections of the marketplace
+
 ![Project](./src/assets/project-screenshots/Home-Page.png)
 
 #### Add Job Page
 If you are a registered recruiter then you can add jobs to the marketplace for your company
+
 ![Project](./src/assets/project-screenshots/Add-Job-Page.png)
 
 #### Job Listings Page
 Here is where all the available jobs are listed for the job seekers
+
 ![Project](./src/assets/project-screenshots/Job-Listing-Page.png)
 
 #### Job Page
 Here is where the job seeker can get in depth details about the available job
+
 ![Project](./src/assets/project-screenshots/Jobs-Page.png)
 
 #### Custom 404 Not Found Page
 In case the user navigates to an incorrect page which is not availble then a custom 404 not found page is rendered
+
 ![Project](./src/assets/project-screenshots/Not-Found-Page.png)
 
 ## Getting Started
