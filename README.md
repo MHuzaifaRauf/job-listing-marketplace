@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Overview
 This project is a job listing marketplace built using React 18, featuring various React features such as React Router to create a multi-page application, useState, useEffect, and fundamental concepts like states, props, Hooks, and data fetching. The project utilizes the JSON Server library to create a mock REST API, serving as the backend for job details.
 
@@ -21,10 +20,6 @@ Here is where the job seeker can get in depth details about the available job
 #### Custom 404 Not Found Page
 In case the user navigates to an incorrect page which is not availble then a custom 404 not found page is rendered
 ![Project](./src/assets/project-screenshots/Not-Found-Page.png)
-=======
-## Overview
-This project is a job listing marketplace built using React 18, featuring various React features such as React Router to create a multi-page application, useState, useEffect, and fundamental concepts like states, props, Hooks, and data fetching. The project utilizes the JSON Server library to create a mock REST API, serving as the backend for job details.
->>>>>>> 0ed24d54a205c88ecb1ae1582fdfba49cbce0349
 
 ## Getting Started
 To run the project, follow these steps:
@@ -83,4 +78,4 @@ The project is structured into the following directories and files:
 You can also access the development version of this code, but please note that it won't display job details because the JSON server runs locally on your machine. To view the jobs page, you'll need to create a REST API using any backend framework, which will then work seamlessly. This feature will be added in the near future, God willing.
 
 ## Conclusion
-This project showcases the use of various React features and fundamental concepts to build a job listing website. The JSON Server library offers a straightforward and efficient method to set up a mock REST API for job details. The project is designed for easy extension and scalability, providing a solid foundation for developing more sophisticated applications.
+This project showcases the use of various React features and fundamental concepts to build a job listing marketplace. The JSON Server library offers a straightforward and efficient method to set up a mock REST API for job details. The project is designed for easy extension and scalability, providing a solid foundation for developing more sophisticated applications.
